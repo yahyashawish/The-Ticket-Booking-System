@@ -1,0 +1,4 @@
+BookingManager$IPaymentGateway.class
+BookingManager$INotificationService.class
+BookingManager.class
+BookingManager$IEventRepository.class
